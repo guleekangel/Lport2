@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "portfolio",
+  "name": "furniture-portfolio",
   "compatibility_date": "2026-11-26",
 
   // One self-contained index.html — no build step, no framework.
